@@ -14,4 +14,5 @@ A [[sfalimshop]] customer via [[Mom]]'s circle — Gleb's **first wall-art (acry
 - **Progress:** instructor-portrait picked ✓ · lightened + 2× upscaled PRINT files ready ✓ · acrylic demo sent → loved ❤️ ✓ · now offering the lit A4 frame.
 - **✅ FINAL — Gleb's first wall-art SALE: 2 plain acrylic panels, ₪180** (hangs, transparent edge). She chose simple over the lit/swap frame — the gift recipient (the sculptor instructor) is **~70, not techy** ("she'd never switch anything"; funny aside: Inga is still teaching her own mom not to unplug a digital frame 😅).
 - **Next:** payment **Bit ₪180** (054-684-1662) · confirm [[Zikit]] flat-acrylic 20×30 price + hanging hole/loop · print (`*-PRINT.jpg` ready) · receipt (קבלה) · deliver → **photo + ★ review** → `testimonials`.
+- **🔁 Repeat-customer opening:** she **loved the lit/swap photo-frame idea** and said she'll **use it for another gift** — follow up later (good-taste customer, chose simple here because it's a symbolic gift).
 - Related: [[sfalimshop]] · [[Mom]] · [[Zikit]] · [[Idea bank]] (wall-art line)

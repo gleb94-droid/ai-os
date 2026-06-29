@@ -31,6 +31,9 @@ type: home
 - [[2026-06-29 morning work story]]
 - [[2026-06-28 trying reel]]
 
+## 🎵 Music
+- [[Music taste]] — Gleb's real vibe clusters (for reel/story picks)
+
 ## 💡 Ideas
 - [[Idea bank]]
 

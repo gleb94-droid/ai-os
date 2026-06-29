@@ -16,7 +16,7 @@ type: home
 | [[Wello]] | 🟡 | app — bottleneck = outreach |
 
 ## 👥 People
-- [[Lazar]] · [[Mom]] · [[Zikit]] · [[Supporters]]
+- [[Lazar]] · [[Mom]] · [[Zikit]] · [[Supporters]] · [[Lena]]
 
 ## 🛠️ Tools
 - [[Supabase]] · [[Vercel]] · [[Tranzila]] · [[Edits (Instagram)]] · [[CapCut]]

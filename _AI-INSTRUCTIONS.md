@@ -12,6 +12,7 @@
 - Prefer **updating** an existing page over creating a duplicate.
 
 ## After a task
+- **Capture automatically — don't ask permission.** When something brain-worthy comes up (customer, lead, tool change, result, learning, a preference of Gleb's), just record + commit it and note it in one line. **Exception:** production code · the live site · deploys · deletes still need Gleb's explicit approval.
 - **Log it:** add a line to today's `Log/YYYY-MM-DD` page (decision · what shipped · what's next).
 - **Deepen dossiers:** if you learned something about Gleb or a project, append it to the right page.
 - Update the project's **Status** + **Next** on its page.

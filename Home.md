@@ -28,6 +28,7 @@ type: home
 - [[Gleb]] — identity · voice · goals · red lines (every agent reads this)
 
 ## 🎬 Content
+- [[2026-06-29 second-brain reveal reel]]
 - [[2026-06-29 morning work story]]
 - [[2026-06-28 trying reel]]
 

@@ -10,8 +10,8 @@ A [[sfalimshop]] customer via [[Mom]]'s circle — Gleb's **first wall-art (acry
 - **Print notes:** print **~10–15% lighter** (portraits are dark — acrylic deepens darks); needs **max-res originals** for a clean 20×30.
 - **Quoted:** **₪180 for the pair** (2 panels + portrait prep/lighten), personal Be'er Sheva delivery ₪0.
 - **🆕 Product switched → illuminated A4 LED photo frame** ([[Zikit]] cat# **9614-2 black** / 9614-1 silver, p.116, blank **₪54** ea): thin frame ✓, **hangs AND stands** ✓ (wall kit incl.), A4 ≈ 21×30 ✓, and it **backlights** (USB) — premium glow, great for a memorial. Ticks all Inga's asks + the wow.
-- **Quote:** **₪250 for the pair** (premium vs the ₪180 plain acrylic). Frame colour recommended **black** (suits the dark/classical portraits).
+- **💱 Price-sensitive** (₪250 felt too dear). Wants **hanging** + **transparent acrylic edge** (both fine: acrylic edge is naturally clear ✓, flat acrylic hangs ✓ — confirm hole/loop at [[Zikit]]). **Offering her a no-pressure choice:** plain acrylic **₪180** OR the lit frame at a discounted **₪199** (from ₪250) — ~same margin either way (lit blank ₪54).
 - **Progress:** instructor-portrait picked ✓ · lightened + 2× upscaled PRINT files ready ✓ · acrylic demo sent → loved ❤️ ✓ · now offering the lit A4 frame.
-- **✅ CONFIRMED 2026-06-29** — Inga said "Замечательно" + "как оплатить?" (accepted ₪250). **Gleb's first wall-art SALE.**
-- **Next:** confirm frame colour (black rec.) · take payment (**Bit** / transfer / cash, full upfront — custom item) · issue receipt (קבלה) · confirm [[Zikit]] stock of 9614-2 · print (test backlight brightness) · deliver → **get photo + ★ review** → `testimonials`.
+- **✅ SALE confirmed (Gleb's first wall-art) — finalizing product/price:** Inga to pick **₪180 plain acrylic** vs **₪199 lit frame**.
+- **Next:** Inga picks → payment (**Bit** 054-684-1662 / transfer / cash) · confirm [[Zikit]] (flat-acrylic price + hanging hole/loop, or 9614 stock) · print (`*-PRINT.jpg` ready) · receipt (קבלה) · deliver → **photo + ★ review** → `testimonials`.
 - Related: [[sfalimshop]] · [[Mom]] · [[Zikit]] · [[Idea bank]] (wall-art line)

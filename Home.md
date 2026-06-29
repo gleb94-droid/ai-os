@@ -16,7 +16,7 @@ type: home
 | [[Wello]] | 🟡 | app — bottleneck = outreach |
 
 ## 👥 People
-- [[Lazar]] · [[Mom]] · [[Zikit]]
+- [[Lazar]] · [[Mom]] · [[Zikit]] · [[Supporters]]
 
 ## 🛠️ Tools
 - [[Supabase]] · [[Vercel]] · [[Tranzila]] · [[CapCut]]
@@ -28,6 +28,7 @@ type: home
 - [[Gleb]] — identity · voice · goals · red lines (every agent reads this)
 
 ## 🎬 Content
+- [[2026-06-29 morning work story]]
 - [[2026-06-28 trying reel]]
 
 ## 💡 Ideas

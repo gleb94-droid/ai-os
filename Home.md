@@ -15,11 +15,20 @@ type: home
 | [[greenway]] | 🟡 | mom's liquidation sale (WhatsApp) |
 | [[Wello]] | 🟡 | app — bottleneck = outreach |
 
+## 👥 People
+- [[Lazar]] · [[Mom]] · [[Zikit]]
+
+## 🛠️ Tools
+- [[Supabase]] · [[Vercel]] · [[Tranzila]] · [[CapCut]]
+
 ## 🤖 Agents
 - [[glebalife-content]] — personal-IG content partner (reads its own dossier)
 
 ## 👤 Me
 - [[Gleb]] — identity · voice · goals · red lines (every agent reads this)
+
+## 🎬 Content
+- [[2026-06-28 trying reel]]
 
 ## 💡 Ideas
 - [[Idea bank]]

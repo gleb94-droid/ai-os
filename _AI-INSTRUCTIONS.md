@@ -17,7 +17,8 @@
 - Update the project's **Status** + **Next** on its page.
 
 ## Conventions
-- **Markdown only.** Frontmatter `type:` on each page (`home`/`project`/`agent`/`me`/`idea`/`log`).
+- **Markdown only.** Frontmatter `type:` on each page (`home`/`project`/`agent`/`me`/`person`/`tool`/`content`/`idea`/`log`).
+- **Grow the web from REAL use, not padding.** Give every real thing its own page — people, tools, content (each reel/post), lessons — and **link liberally** (`[[...]]`). One shared tool (e.g. [[Supabase]]) linked from several projects creates the cross-connections that make the graph dense + useful. Never create empty pages just to inflate the graph.
 - Be **concise + specific**. This is internal → be honest, no fluff.
 - Gleb is **RU/HE-first and doesn't code** → keep it plain, no jargon dumps.
 - New project? Copy `Templates/Project template`.

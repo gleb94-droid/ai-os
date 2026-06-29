@@ -23,7 +23,7 @@ Eclectic + deep, but it clusters. **Comfort zone = moody R&B / trapsoul.** High-
 ## ⭐ Most-saved go-to artists
 Chris Brown · Drake · The Weeknd · 6LACK · Bryson Tiller · Jacquees · Michael Jackson · Maluma · J Balvin · Metro Boomin · 21 Savage · Tory Lanez · Santino Le Saint · RealestK · Rihanna · Sleep Token · Nathan Goshen · Alesso.
 
-## → Content mapping (for [[glebalife]] reels, made in [[CapCut]])
+## → Content mapping (for [[glebalife]] reels, edited in [[Edits (Instagram)]])
 - **Defiant / "they laughed" / attack** → phonk or nu-metal (SOAD «Toxicity», Sleep Token «The Summoning»), or edgy rap — he used **ASAP Rocky** ✓ perfect.
 - **Cool / building / morning groove** → moody R&B / The Weeknd / soul, or chill phonk.
 - **Hype / party / launch / drop** → reggaeton (Maluma, J Balvin) or EDM (Alesso, Black Eyed Peas).

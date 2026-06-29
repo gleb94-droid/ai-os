@@ -19,7 +19,7 @@ type: home
 - [[Lazar]] · [[Mom]] · [[Zikit]] · [[Supporters]]
 
 ## 🛠️ Tools
-- [[Supabase]] · [[Vercel]] · [[Tranzila]] · [[CapCut]]
+- [[Supabase]] · [[Vercel]] · [[Tranzila]] · [[Edits (Instagram)]] · [[CapCut]]
 
 ## 🤖 Agents
 - [[glebalife-content]] — personal-IG content partner (reads its own dossier)

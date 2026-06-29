@@ -1,0 +1,5 @@
+# Obsidian — keep config, ignore per-machine cache/workspace
+.obsidian/workspace*
+.obsidian/cache
+.trash/
+.DS_Store

@@ -8,6 +8,7 @@ type: idea
 ## Active / next
 - 🎬 [[glebalife]] **"first order" follow-up reel** (the laugh → order arc).
 - 🐱 [[glebalife]] **cats-on-the-press transition reel** ("real cat → onto the shirt").
+- 🎬🇮🇱 [[glebalife]] **sailing-team project reel** — range/legitimacy (*"from cats on tees to a national team at an international regatta"*); **lots of phone footage already shot 2026-06-30** (urgent sponsor-logo + Israeli-flag job) — edit it while it's fresh.
 - 💳 [[sfalimshop]] **enable Bit** · **cart-recovery part 2** · **collect reviews**.
 
 ## Parked

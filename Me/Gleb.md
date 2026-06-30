@@ -24,6 +24,9 @@ Short, direct, **cynical**, doesn't take himself too seriously. **Natural Hebrew
 - **Bit / payment phone (local orders):** **054-684-1662**. Customer email: hello@sfalimshop.com.
 - Local custom orders ([[sfalimshop]]) → pay by **Bit** (this number) · bank transfer · or cash on the Be'er Sheva handoff; take full payment upfront for custom items, then issue a receipt (קבלה, exempt dealer).
 
+## Setup / rig
+- Workstation: one main monitor **+ iPad as a 2nd screen via spacedesk** (free; set up 2026-06-30 — PC driver 2.2.25, PC IP 10.0.0.9 on Ethernet, iPad over WiFi). Workflow: main screen = active work (Canva / design / VS Code + agents); iPad = glanceable panels (WhatsApp customers · reference photos · the [[Home|brain]]).
+
 ## Related
 - Personal content → [[glebalife]] + [[glebalife-content]]
 - The shop → [[sfalimshop]]

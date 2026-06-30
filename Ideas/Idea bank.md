@@ -11,6 +11,8 @@ type: idea
 - 🎬🇮🇱 [[glebalife]] **sailing-team project reel** — range/legitimacy (*"from cats on tees to a national team at an international regatta"*); **lots of phone footage already shot 2026-06-30** (urgent sponsor-logo + Israeli-flag job) — edit it while it's fresh.
 - 💳 [[sfalimshop]] **enable Bit** · **cart-recovery part 2** · **collect reviews**.
 
+- 🐶💼 **B2B channel: pet pros → gift bundles** for [[sfalimshop]] — a **dog trainer (Dima)** saw the print content and asked for a **product menu** to give **gift bundles to his graduating clients** (recurring! every client = an order + his clients wear/use the merch = free exposure). Surfaced 2026-06-30 from inbound. **Pursue:** build a simple product/price menu + a bundle deal; pitch other trainers/groomers/vets/pet shops. (Also: Alex — soft shirt-print interest.)
+
 ## Parked
 - 🖼️ **Wall-art photo panels = new product line** for [[sfalimshop]] — [[Zikit]] stocks **acrylic** (flat / cool curved-arch standing) + **thin glass** photo panels (~p.38–42), all pressable on his existing flat heat press. Surfaced 2026-06-29 from Инга wanting two ~20×30 gift pictures (not wood, "интереснее холста"). Premium, gift-friendly, no new gear.
 - 💡 **Swap-card lit frame = recurring revenue** — the [[Zikit]] illuminated frame (9614) prints on a **removable transparency**, so sell **1 frame + swappable printed cards** (the customer changes the image themselves) → cheaper entry + **repeat card sales** later (seasonal/new-pet/memorial). Surfaced 2026-06-29 from Инга's order.

@@ -15,6 +15,7 @@ Runs a full dog business (דימה "dog trainer") — **training · service boar
   - **🎓 מדים/Uniform ₪119** (training clients) — **owner's dog-portrait shirt** (his custom) + **matching dog bandana** (owner+dog match set).
   - **🏆 Premium ₪220** (training-boarding graduates) — dog-portrait shirt + bandana + photo mug + **fleece blanket OR acrylic portrait** + keychain (full graduation gift box).
   - ⭐ **Star upsell — printable retractable flexi leash with a photo disc** (Zikit #8719, **double-sided round print disc, comes with a pair of aluminium discs**): small 5m / 7cm disc = blank **₪24** · large 7m / 8.5cm disc = blank **₪35**. The dog's face on the leash disc = wow item; slot into Premium or sell standalone ~₪69–89.
-- **✅ 2026-07-02 — Zikit blank prices confirmed** (from catalog p.137): bandana **₪9**, leash-small **₪24**, leash-large **₪35**. Still ask Zikit re **keychain** price. Margins now lockable → pitch ready.
+- **✅ 2026-07-02 — ALL Zikit blank prices confirmed** (catalog p.137 + pp.86-87): bandana **₪9** · leash-small **₪24** / large **₪35** · **keychain** (metal, dog-face) one-sided **₪2.50** / double-sided **₪4.90** (drops to ₪1.80 over 100). **Every bundle blank now cost-locked → full pitch with numbers is ready.**
+  - **Bundle blank costs:** Basic (bandana ₪9 + magnet ₪4.8) ≈ **₪14** → sell ₪59 ✅ · Uniform (shirt + bandana ₪9) → sell ₪119 ✅ · Premium (shirt + bandana + mug + blanket/acrylic + keychain ₪4.9) → sell ₪220 ✅.
 - **Why it matters:** recurring B2B channel + his clients wear/use the merch = free exposure. Blueprint to pitch other trainers/groomers/vets/pet shops → see [[Idea bank]].
 - Related: [[sfalimshop]] · [[Zikit]]

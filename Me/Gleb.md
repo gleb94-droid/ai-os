@@ -21,7 +21,8 @@ Short, direct, **cynical**, doesn't take himself too seriously. **Natural Hebrew
 - **Building with AI = humble numbers.** Real beats inflated.
 
 ## Business / payments
-- **Bit / payment phone (local orders):** **054-684-1662**. Customer email: hello@sfalimshop.com.
+- **Bit / payment phone (local orders) = his PERSONAL number:** **054-684-1662**. Customer email: hello@sfalimshop.com.
+- **Business WhatsApp (customer-facing, on the site + any customer asset):** **050-484-7874** (intl `972504847874`, hard-coded as `WHATSAPP_NUMBER` in [[sfalimshop]] App.jsx). ⚠️ **Use THIS on customer-facing materials, NOT the personal 054-684-1662.**
 - Local custom orders ([[sfalimshop]]) → pay by **Bit** (this number) · bank transfer · or cash on the Be'er Sheva handoff; take full payment upfront for custom items, then issue a receipt (קבלה, exempt dealer).
 
 ## Setup / rig

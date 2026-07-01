@@ -19,6 +19,10 @@ type: reference
 - **Explain what makes the material special in simple terms** — glitter = *נוצץ ותופס אור בולט הרבה יותר מהדפס רגיל* (sparkles, catches light, stands out far more than a regular print).
 - Keep it **low-key, no pafos** (ties to [[glebalife-content]] voice + the low-key message rule).
 
+## Suppliers
+- **Blank T-SHIRTS come from a DIFFERENT supplier, NOT [[Zikit]]** (Gleb, 2026-07-01). So when costing shirt bundles, use the shirt-supplier's price, not Zikit's catalog tee price. Zikit = the sublimation/HTV blanks + pet-gear + mugs/coasters/keychains etc.
+- The priced Zikit catalog PDF (73MB, 157pp, prices updated 2026-05-10) is on Gleb's Desktop: `קטלוג זיקית דיגיטל 2026 עם מחירים...pdf`. Prices are **bulk-tier** (מעל 150 / 1500 יח') **without VAT**; new "חדש" showcase items (dog bandana, flexi leash w/ disc p.137) show **no printed price** → ask Zikit. Render any page with `magick -density 200 "PDF[N-1]" out.png` (poppler not installed; Ghostscript works).
+
 ## Tooling win (reusable)
 - The agent can auto-build a **branded, price-free colour chart** from a supplier page (hide `.price`/`.card-footer`, force-load swatches, add Sfalim logo + title, split to pages + PDF). Done for glitter HTV 2026-07-01 → files on Gleb's Desktop (`glitter-colors-sfalimshop.pdf` + 3 JPG pages). Repeatable for other HTV types (flock, matte, etc.).
 

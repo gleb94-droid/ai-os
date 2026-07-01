@@ -11,6 +11,7 @@ type: idea
 - 🎬🇮🇱 [[glebalife]] **sailing-team project reel** — range/legitimacy (*"from cats on tees to a national team at an international regatta"*); **lots of phone footage already shot 2026-06-30** (urgent sponsor-logo + Israeli-flag job) — edit it while it's fresh.
 - 💳 [[sfalimshop]] **enable Bit** · **cart-recovery part 2** · **collect reviews**.
 
+- 🤖💼 **Building-with-AI as a service (inbound proof)** — **2026-07-01** a viewer ([[Rafael Hanan Mazuz]]) saw Gleb's *story about his live shop site* and messaged *"if you deal with software let's talk tomorrow"* → the **content is already pulling software/AI-build inquiries**, not just merch. Real signal that "build anything with AI" could become a second revenue lane (sites / tools / automations for local businesses). **Next:** hear what Rafael needs (talk tomorrow), keep expectations open, don't over-promise. Feeds the [[glebalife]] building-with-AI world.
 - 🐶💼 **B2B channel: pet pros → gift bundles** for [[sfalimshop]] — a **dog trainer (Dima)** saw the print content and asked for a **product menu** to give **gift bundles to his graduating clients** (recurring! every client = an order + his clients wear/use the merch = free exposure). Surfaced 2026-06-30 from inbound. **Pursue:** build a simple product/price menu + a bundle deal; pitch other trainers/groomers/vets/pet shops. (Also: Alex — soft shirt-print interest.)
 
 ## Parked

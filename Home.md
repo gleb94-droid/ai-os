@@ -35,6 +35,9 @@ type: home
 ## 🎵 Music
 - [[Music taste]] — Gleb's real vibe clusters (for reel/story picks)
 
+## 📚 Reference
+- [[Sfalim print methods & copy]] — glitter HTV vs sublimation + plain-language copy rule
+
 ## 💡 Ideas
 - [[Idea bank]]
 

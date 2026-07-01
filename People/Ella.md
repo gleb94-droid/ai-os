@@ -11,5 +11,6 @@ A repeat [[sfalimshop]] customer + **the FIRST real testimonial on the site** (�
 - **Agent's pick relayed:** design #1 (hard-hat "someone who solves a problem…") — the helmet colour pops on gray, witty, great big on the back.
 - **🔄 2026-07-01 update:** Ella **settled on design #3** — the "Civil Engineer" **spec-label / icon style** (4 icons: multi-tasking · likes beer · requires coffee · problem solving + a warning/barcode "nutrition-label" block). She chose it because it's **everyday-wearable** (*"עיצוב שהוא יכול לשים כל יום"*), not a one-off joke. White print → clean on the gray shirt, big on the back. Ref is an AliExpress mock (watermark "Shop1596078Store", low quality) → **Gleb recreates it clean in Canva** (redraw icons + text + label block, drop the watermark).
 - **Price plan:** repeat-customer price **₪120** (from ₪149) — **not yet quoted to her** (Gleb sent the design-only reply first). Quote it once the design is settled.
-- **Next:** settle the design → quote ₪120 → get her size → Gleb recreates clean → print → deliver → maybe a photo/review of this one too.
+- **✅ 2026-07-01 ORDER CONFIRMED:** design #3 (Civil Engineer spec-label) · **gray shirt** · **big print on back** · **size XL** · **₪120** (repeat-customer price, she accepted). 
+- **Next:** Gleb recreates the design clean in Canva (no watermark, sized for the back) → print gray XL back → deliver → collect ₪120 → ask for a photo of this shirt for content.
 - Related: [[sfalimshop]]

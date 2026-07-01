@@ -27,7 +27,7 @@ Short, direct, **cynical**, doesn't take himself too seriously. **Natural Hebrew
 - Local custom orders ([[sfalimshop]]) → pay by **Bit** (this number) · bank transfer · or cash on the Be'er Sheva handoff; take full payment upfront for custom items, then issue a receipt (קבלה, exempt dealer).
 
 ## Setup / rig
-- Workstation: one main monitor **+ iPad as a 2nd screen via spacedesk** (free; set up 2026-06-30 — PC driver 2.2.25, PC IP 10.0.0.9 on Ethernet, iPad over WiFi). Workflow: main screen = active work (Canva / design / VS Code + agents); iPad = glanceable panels (WhatsApp customers · reference photos · the [[Home|brain]]).
+- Workstation: one main monitor **+ iPad as a 2nd screen via Splashtop Wired XDisplay** (free, over USB cable — switched 2026-07-02 from spacedesk, which lagged over WiFi). Splashtop Wired XDisplay Agent 1.5.8.3 on PC + free app on iPad. **The reason it works now:** wired iOS→Windows apps need Apple Mobile Device Support; it was missing (Splashtop failed the first try), but installing the **Apple Devices** app (for iPhone backup, 2026-07-01) put the driver in → wired 2nd screen works. **Duet Display** was tried but it's now subscription-only (~$72/yr) → dropped in favour of free Splashtop (Duet host still installed on PC, unused, no subscription taken). Workflow: main screen = active work (Canva / design / VS Code + agents); iPad = glanceable panels (WhatsApp customers · reference photos · the [[Home|brain]]).
 
 ## Related
 - Personal content → [[glebalife]] + [[glebalife-content]]

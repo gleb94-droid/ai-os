@@ -28,6 +28,7 @@ type: home
 - [[Gleb]] — identity · voice · goals · red lines (every agent reads this)
 
 ## 🎬 Content
+- 🎬 **[[Content board]]** — the LIVE pipeline (night-shift series · value posts · numbers loop)
 - [[2026-06-29 second-brain reveal reel]]
 - [[2026-06-29 morning work story]]
 - [[2026-06-28 trying reel]]

@@ -17,8 +17,12 @@ Hebrew-first pet **print-on-demand** shop (sfalimshop.com). Mugs, tees, stickers
 - `ramkol` — the **business-page** marketing agent (≠ [[glebalife-content]], which is personal/glebalife).
 - + auditors (security / rtl / a11y / seo / mockup-qa), supabase-helper, tranzila-specialist — in the repo's `.claude/agents/`.
 
+## Boards
+- 📦 **[[Sfalim orders board]]** — the LIVE production queue (open orders · statuses · next actions). Agents keep it current.
+
 ## Next
-- 💳 **Enable Bit on Tranzila** (likely the #1 abandonment cause — owner ticket).
+- 💳 **Bit on Tranzila — IN PROGRESS** (2026-07-02: Tranzila sent enrollment forms, Gleb filling + returning them).
+- 🚀 **Perf CLOSED:** Vercel RES **100/100** desktop+mobile, CLS 0.04/0.03 (verified 2026-07-02).
 - 🛠️ **Cart-recovery part 2:** consent checkbox at checkout + `orders.marketing_consent` migration (server-first).
 - ⭐ **Collect reviews:** ask every happy customer → INSERT into `testimonials` (renders live across site, no deploy).
 - 🎥 Parked: full 30s MY CREW showcase video on `/collage`, mugs OG image.

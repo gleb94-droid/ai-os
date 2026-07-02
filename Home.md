@@ -8,7 +8,7 @@ type: home
 ## 📁 Projects
 | Project | Status | What |
 |---|---|---|
-| [[sfalimshop]] | 🟢 LIVE | pet print shop — **MY CREW** collage-tee flagship |
+| [[sfalimshop]] | 🟢 LIVE | pet print shop — **MY CREW** flagship · 📦 [[Sfalim orders board]] |
 | [[glebalife]] | 🟢 active | personal IG / founder content |
 | [[PAC Academy]] | 🟢 live | trading LMS (brother Lazar) |
 | [[mehiron-haxam]] | 🟡 | smart price-list PWA |
